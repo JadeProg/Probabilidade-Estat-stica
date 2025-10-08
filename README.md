@@ -4,7 +4,7 @@ Este projeto realiza uma análise estatística descritiva e exploratória utiliz
 
 O código foi desenvolvido em um notebook Jupyter (`.ipynb`) e utiliza bibliotecas como Pandas, Matplotlib e Seaborn para manipulação, análise e visualização dos dados.
 
-## 📂 Estrutura do Projet
+## 📂 Estrutura do Projeto
 
 -   `Probabilidade_Estatistica.ipynb`: Notebook principal contendo todo o código da análise.
 -   `Collab/`: Pasta que pode conter arquivos auxiliares ou versões do notebook (conforme a imagem do repositório).
