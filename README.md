@@ -55,6 +55,6 @@ O notebook está estruturado nas seguintes seções:
 
 ## ✍️ Autor
 
--   **Jade Pereira da Paz**
+-   **Jade Paz**
 -   **GitHub:** [JadeProg](https://github.com/JadeProg )
 
